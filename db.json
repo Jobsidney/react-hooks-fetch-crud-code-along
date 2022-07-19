@@ -34,7 +34,37 @@
       "id": 6,
       "name": "Cookies",
       "category": "Dessert",
-      "isInCart": false
+      "isInCart": true
+    },
+    {
+      "name": "cake",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "cream",
+      "category": "Dairy",
+      "isInCart": true,
+      "id": 8
+    },
+    {
+      "name": "pepa",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 11
     }
   ]
 }
